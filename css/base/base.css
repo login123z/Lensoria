@@ -1,0 +1,42 @@
+:root {
+    --black:#000
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container {
+    max-width: 1504px;
+    width: 100%;
+    margin:  0 auto;
+    padding: 0 32px;
+}
+
+.btn-1{
+    border: 1px solid var(--black);
+    border-radius: 28px;
+    width: 132px;
+    height: 44px;
+}
+
+.btn-2{
+    border: 1px solid var(--black);
+    border-radius: 48px;
+    width: 44px;
+    height: 44px;
+}
+
+
+
+
