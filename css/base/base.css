@@ -1,9 +1,18 @@
 :root {
-    --black:#000
+	--brand: #b3fc6d;
+	--orange: #f90;
+	--black: #1b1b1b;
+	--purple: #34359b;
+	--purple-2: #9dbeff;
+	--dark-green: #105447;
+	--accent: #1a5a4c;
+	--white: #fff;
+	--abu-stroke: #ebebeb;
+	--abu-bg: #f5f5f5;
+	--text: #575757;
+	--hijau-bg: rgba(26, 90, 76, 0.12);
+	--hijau-nyobain: #dce9b1;
 }
-
-
-
 
 
 
@@ -21,6 +30,11 @@
     width: 100%;
     margin:  0 auto;
     padding: 0 32px;
+}
+
+.btn {
+    background-color: black;
+    color: var(--hijau-nyobain);
 }
 
 .btn-1{
